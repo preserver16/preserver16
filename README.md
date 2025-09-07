@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Neelesh Singh, a Technical Consultant experienced in OFSAA, FSDF, PL/SQL, and shell scripting. Skilled in data transformation, automation, and performance optimization with a background in full-stack development and data analysis. Passionate about bridging business needs with technical solutions across finance and technology domains.
+I’m Neelesh Singh, a Technical Consultant experienced in OFSAA, PL/SQL, and shell scripting. Skilled in data transformation, automation, and performance optimization with a background in full-stack development and data analysis. Passionate about bridging business needs with technical solutions across finance and technology domains.
 
 
 ## 🌐 Socials:
